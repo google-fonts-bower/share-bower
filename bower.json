@@ -1,0 +1,17 @@
+{
+    "name": "share-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Carrois Apostrophe"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/share-bower.git"
+    },
+    "description": "Share font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
